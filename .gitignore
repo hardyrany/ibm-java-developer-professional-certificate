@@ -21,7 +21,7 @@ node_modules/
 .env
 
 
-# Build directores
+# Build directories
 bin/
 target/
 build/
@@ -31,3 +31,4 @@ dist/
 # System files
 .DS_Store
 Thumbs.db
+node_modules
